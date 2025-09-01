@@ -98,12 +98,9 @@
   ```
   Upload Flux image and selfie, add yourself to the background.
   ```
-- **参考图**:  
+- **参考图/生成结果**:  
   ![参考图](https://pbs.twimg.com/media/GyuVHceW4AEUzQY.jpg)  
-  *描述: Flux 图像 + 自拍*
-- **生成结果**:  
-  ![生成结果](https://pbs.twimg.com/media/GyuVHceW4AEUzQY.jpg)  
-  *描述: 合成后的背景图像*
+
 - **来源**:  
   来源搜索中未匹配，可通过 X 搜索关键词 "nanobanana Flux selfie" 更新
 
@@ -125,11 +122,9 @@
   ```
 - **参考图**:  
   ![参考图](https://pbs.twimg.com/media/GzdEowKWkAAedzC.jpg)  
-  *描述: 原蛋糕图像*
-- **生成结果**:  
-  ![结果1](https://pbs.twimg.com/media/GzdEowKWkAAedzC.jpg)  
+- **生成结果**:   
   ![结果2](https://pbs.twimg.com/media/GzdEowOXYAAwVRx.jpg)  
-  *描述: 改进后的生日蛋糕图像*
+
 - **来源**:  
   [GabbyShires 的 X 帖子](https://x.com/GabbyShires/status/1961111634815897641)
 
@@ -150,14 +145,13 @@
 ### 用例 6: 蓝图到飞机
 - **提示词**:  
   ```
-  Blueprint to Air (从蓝图到飞机)
+  Blueprint to Air
   ```
 - **参考图**:  
   ![参考图](https://pbs.twimg.com/media/GzGIr6dagAAvH7_.jpg)  
-  *描述: 战斗机图像*
 - **生成结果**:  
   [结果视频](https://video.twimg.com/amplify_video/1961405481726935040/vid/avc1/480x270/mf5AwqmzcBsysdtP.mp4)  
-  *描述: 从蓝图到飞机的变换过程*
+
 - **来源**:  
   [AITalesNBH 的 X 帖子](https://x.com/AITalesNBH/status/1961405772836810788)
 
@@ -184,8 +178,7 @@
   无（创意生成）
 - **生成结果**:  
   ![结果1](https://pbs.twimg.com/media/GzTyMYgbUAArUBC.jpg)  
-  ![结果2](https://pbs.twimg.com/media/GzTzJBKa4AAg6Yr.jpg)  
-  *描述: 经典AI挑战提示的生成结果*
+ 
 - **来源**:  
   来源搜索中未匹配，可通过 X 搜索关键词 "nanobanana horse riding astronaut" 更新
 
@@ -210,11 +203,8 @@
   ```
 - **参考图**:  
   ![参考图](https://pbs.twimg.com/media/Gy4KtUjWEAEMddj.jpg)  
-  *描述: Midjourney 生成的龙战场图像*
 - **生成结果**:  
-  ![结果1](https://pbs.twimg.com/media/Gy4KtUjWEAEMddj.jpg)  
   ![结果2](https://pbs.twimg.com/media/Gy4KuHLWoAADJnP.jpg)  
-  *描述: 第一人称视角的龙头部后视图*
 - **来源**:  
   来源搜索中未匹配，可通过 X 搜索关键词 "nanobanana camera angle dragon" 更新
 
